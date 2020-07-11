@@ -18,7 +18,7 @@ And, as you can see, git is no stranger to me.
 
 ### Projects
 
-Right now I am working on my bachelor thesis and therefore I am not working actively at a specific project, but I can some you some of my old projects:
+Right now I am working on my bachelor thesis and therefore I am not working actively at a specific project, but I can show you some of my old projects:
 
 * [DartRogue](https://github.com/Schrotty/DartRogue) 🔪
 
