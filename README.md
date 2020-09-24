@@ -2,7 +2,7 @@
 
 #### Bit about me
 
-I am 25, a student, programmer with a heart for bugs, and most of the time confused about what I am doing.
+I am 26, a student, programmer with a heart for bugs, and most of the time confused about what I am doing.
 Most of my projects here are just for fun and often experimental or stupid as hell.
 I love bad javascript jokes as much I love tea and I love tea a lot! 🍵
 
