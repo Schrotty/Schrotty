@@ -21,6 +21,10 @@ And, as you can see, git is no stranger to me.
 
 Some of my old projects:
 
+* [Onyx - QR-Generator](https://github.com/Schrotty/onyx-qr-generator) 🏷️
+
+  A basic qr-code generator build with flask-restful and vue.js.
+
 * [DartRogue](https://github.com/Schrotty/DartRogue) 🔪
 
   A simple dungeon crawler written in dart.
