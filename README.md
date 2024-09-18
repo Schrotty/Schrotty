@@ -2,13 +2,13 @@
 
 #### Bit about me
 
-I am 28, a student, programmer with a heart for bugs, and most of the time confused about what I am doing.
+I am 30, a student, programmer with a heart for bugs, and most of the time confused about what I am doing.
 Most of my projects here are just for fun and often experimental or stupid as hell.
 I love bad JavaScript jokes as much I love tea and I love tea a lot! 🍵
 
 #### Languages
 
-My preferred languages are either Scala or C#, but I also use Java, Python, and some JavaScript/ TypeScript.
+My preferred languages are either Scala or C#, but I also use PHP, Java, Python, and some JavaScript/ TypeScript.
 
 #### Frameworks and Tools
 
